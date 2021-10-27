@@ -13,6 +13,11 @@ This repository provides examples for those who want to start working in deep le
 - PyTorch\_TransferLayer: This notebook shows how to use transfer learning (TL) within a supervised context. The TL technique is fine-tuning the deep convolutional neural network (CNN). We considered six pretrained models: ResNet-18, ResNet-34, DenseNet-121, DenseNet-161, GoogLeNet, and Inception-v3.
 
 
+## Datasets
+
+The following datasets are required to download into Google Drive so that some notebooks can work properly:
+
+- [imagenettetvt320](https://www.kaggle.com/valdivinosantiago/imagenettetvt320).
 
 
 ## Author
