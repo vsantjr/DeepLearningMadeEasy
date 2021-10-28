@@ -10,7 +10,8 @@ This repository provides examples for those who want to start working in deep le
 - PyTorch\_VGG\_ResNet\_VGGout: It shows how easy is to create "new" deep neural networks (DNNs) by changing a few lines of code of previously proposed models. New networks: VGG12BN, ResNet-14. The output is due to the execution of VGG12BN;
 - PyTorch\_VGG\_ResNet\_ResNetout: Same previous notebook but with the output of ResNet-14;
 - PyTorch\_DenseNet: It shows how easy is to create "new" deep neural networks (DNNs) by changing a few lines of code of previously proposed models. New network: DenseNet-83;
-- PyTorch\_TransferLayer: This notebook shows how to use transfer learning (TL) within a supervised context. The TL technique is fine-tuning the deep convolutional neural network (CNN). We considered six pretrained models: ResNet-18, ResNet-34, DenseNet-121, DenseNet-161, GoogLeNet, and Inception-v3.
+- PyTorch\_TransferLayer: This notebook shows how to use transfer learning (TL) within a supervised context. The TL technique is fine-tuning the deep convolutional neural network (CNN). We considered six pretrained models: ResNet-18, ResNet-34, DenseNet-121, DenseNet-161, GoogLeNet, and Inception-v3;
+- PyTorch\_U-Net: This notebook is about semantic segmentation via U-Net. **Important**. This notebook was developed by the [Albumentations Team](href=https://albumentations.ai/) and a few modifications have been done by Valdivino Alexandre de Santiago J&uacute;nior. If you want to use Albumentations in your study, please cite their [article](https://www.mdpi.com/2078-2489/11/2/125">article). 
 
 
 ## Datasets
