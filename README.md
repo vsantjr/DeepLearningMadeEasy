@@ -1,6 +1,11 @@
 # Deep Learning Made Easy
 
-This repository provides examples for those who want to start working in deep learning (DL), a subfield of machine learning (ML). Currently, the following source codes are available:
+This repository provides examples for those who want to start working in deep learning (DL), a subfield of machine learning (ML). 
+
+
+## Convolutional Neural Networks (CNNs)
+
+The following CNNs are available:
 
 
 - PyTorch\_MNIST: Google Colab's notebook for the handwritten digit classification problem based on the classical Modified National Institute of Standards and Technology (MNIST) database. It uses three neural networks to address this problem: **SNN500** by [Aviv Shamsian](https://github.com/AvivSham/Pytorch-MNIST-colab), **CNN3L** by [Nutan](https://medium.com/@nutanbhogendrasharma/pytorch-convolutional-neural-network-with-mnist-dataset-4e8a4265e118), and **LeNet-5** by [Bolla Karthikeya](https://github.com/bollakarthikeya/LeNet-5-PyTorch/blob/master/lenet5\_gpu.py);
@@ -15,11 +20,22 @@ This repository provides examples for those who want to start working in deep le
 - PyTorch\_Mask R-CNN: This notebook is about instance segmentation via Mask R-CNN. **Important**. This notebook was developed by [Erdene-Ochir Tuguldur](https://github.com/tugstugi/dl-colab-notebooks/blob/master/notebooks/TorchvisionMaskRCNN.ipynb) and a few modifications have been done by Valdivino Alexandre de Santiago Júnior.
 
 
+## Generative Adversarial Networks (GANs)
+
+The following GANs are available:
+
+- PyTorch\_DCGAN: This notebook addresses the [deep convolutional generative adversarial network](https://arxiv.org/abs/1511.06434) (DCGAN);
+- PyTorch\_PROGAN: This notebook is about the [progressive growing of GANs](https://arxiv.org/abs/1710.10196) (PROGAN);
+- PyTorch\_CGAN: This notebook is about the [conditional generative adversarial network](https://arxiv.org/pdf/1411.1784.pdf) (CGAN).
+
+
+
 ## Datasets
 
 The following datasets are required to download into Google Drive so that some notebooks can work properly:
 
-- [imagenettetvt320](https://www.kaggle.com/valdivinosantiago/imagenettetvt320).
+- [imagenettetvt320](https://www.kaggle.com/valdivinosantiago/imagenettetvt320);
+- [CelebFaces Attributes](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
 
 
 ## Author
