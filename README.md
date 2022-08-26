@@ -29,6 +29,12 @@ The following GANs are available:
 - PyTorch\_CGAN: This notebook is about the [conditional generative adversarial network](https://arxiv.org/pdf/1411.1784.pdf) (CGAN).
 
 
+## Explainable Artificial Intelligence (XAI)
+
+The following notebook is available:
+
+- XAI-Final\_ModelComparisonWithSaliency: This notebook is part of the [Explainable AI Toolkit (XAITK)](https://xaitk.org/) developed under the [Defense Advanced Research Projects Agency (DARPA)](https://www.darpa.mil/program/explainable-artificial-intelligence) Explainable Artificial Intelligence (XAI) program. However, a few modifications and bug fixes have been done by [Valdivino Alexandre de Santiago Júnior](https://www.linkedin.com/in/valdivino-alexandre-de-santiago-j%C3%BAnior-103109206/?locale=en_US). But if you want to cite this notebook, **please do cite DARPA's XAITK** because this is basically their notebook with few modifications.
+
 
 ## Datasets
 
