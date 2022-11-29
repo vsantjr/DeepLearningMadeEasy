@@ -33,8 +33,15 @@ The following GANs are available:
 
 The following notebook is available:
 
-- XAI-Final\_ModelComparisonWithSaliency: This notebook is part of the [Explainable AI Toolkit (XAITK)](https://xaitk.org/) developed under the [Defense Advanced Research Projects Agency (DARPA)](https://www.darpa.mil/program/explainable-artificial-intelligence) Explainable Artificial Intelligence (XAI) program. However, a few modifications and bug fixes have been done by [Valdivino Alexandre de Santiago Júnior](https://www.linkedin.com/in/valdivino-alexandre-de-santiago-j%C3%BAnior-103109206/?locale=en_US). But if you want to cite this notebook, **please do cite DARPA's XAITK** because this is basically their notebook with few modifications.
+- XAI-Final\_ModelComparisonWithSaliency: This notebook is part of the [Explainable AI Toolkit (XAITK)](https://xaitk.org/) developed under the [Defense Advanced Research Projects Agency (DARPA)](https://www.darpa.mil/program/explainable-artificial-intelligence) Explainable Artificial Intelligence (XAI) program. However, a few modifications and bug fixes have been done by [Valdivino Alexandre de Santiago Júnior](https://www.linkedin.com/in/valdivino-alexandre-de-santiago-j%C3%BAnior-103109206/?locale=en_US). If you wish to cite this notebook, **please do cite DARPA's XAITK** because this is basically their notebook with few modifications.
 
+
+## Transformers
+
+The following notebooks are available:
+
+- Attention\_Mechanism: The code of this notebook was developed by [Stefania Cristina](https://machinelearningmastery.com/the-attention-mechanism-from-scratch/) published in the *Machine Learning Mastery* site. The text was based on the above post and some others. A few modifications have been done by Valdivino Alexandre de Santiago Júnior[https://www.linkedin.com/in/valdivino-alexandre-de-santiago-j%C3%BAnior-103109206/?locale=en_US]. It is a notebook to explain the attention mechanism. **If you wish to cite this material, please do so by actually citing the other authors, especially [Stefania Cristina's](https://machinelearningmastery.com/the-attention-mechanism-from-scratch/) post**;
+- PyTorch\_ViT: This notebook was developed by [Brian Pulfer](https://medium.com/mlearning-ai/vision-transformers-from-scratch-pytorch-a-step-by-step-guide-96c3313c2e0c) and a few modifications have been done by [Valdivino Alexandre de Santiago Júnior](https://www.linkedin.com/in/valdivino-alexandre-de-santiago-j%C3%BAnior-103109206/?locale=en_US). It is a notebook to explain the visual transformer (ViT) as proposed in [Dosovitskiy et al. (2021)](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1), implemented in PyTorch. **If you wish to cite this material, please do so by actually citing [Brian Pulfer's](https://medium.com/mlearning-ai/vision-transformers-from-scratch-pytorch-a-step-by-step-guide-96c3313c2e0c) post**.
 
 ## Datasets
 
